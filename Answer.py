@@ -54,3 +54,6 @@ j_bonos_options = ["Jordan Katzrin",
            "Cabernet Franc",
            "Bourbon"]
 l_Ans = [a_options,b_options,c_options,d_options,e_options,f_options,g_options,h_options,i_options,j_bonos_options]
+
+real_ans = {"Japan":"b", "Noah":"b", "Isaac Newton":"d", "light bulb":"c", "Aphrodite":"d", "Los Angeles":"d", "Jerusalem":"a", "vintage":"c",
+                     "Parsley":"c", "Bourbon":"d"}
