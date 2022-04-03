@@ -156,7 +156,7 @@ if guess == "d":
     score +=18
 
 print(f"Total score ={score}/100")
-print("*****************GAME OVER*************************888")
+print("*****************GAME OVER*************************")
 
 
 
