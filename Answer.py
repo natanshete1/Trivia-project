@@ -12,37 +12,36 @@ b_options = ["Moses",
 
 
 c_options = ["Albert Einstein",
-             "Isaac Newton",
              "Stephen Hawking",
-             "Glilau Galilei"
-             ]
+             "Glilau Galilei",
+             "Isaac Newton"]
 
 d_options = ["Stove",
-             "light bulb",
              "car",
+             "light bulb",
              "calculator"
              ]
 
-e_options = ["Aphrodite",
+e_options = ["Phobos",
              "Deimos",
              "Pantheon",
-             "Phobos"
+             "Aphrodite"
              ]
 
 
-f_options = ["California",""
-            "Los Angeles",
+f_options = ["California",
+            "Las Vegas",
             "New York",
-            "Las Vegas"]
+            "Los Angeles"]
 
 g_options =["Jerusalem",
            "Tel Aviv",
            "Hadera",
            "Herzliya"]
 
-h_options = ["vintage",
+h_options = ["date harvest",
             "olive harvest",
-            "date harvest",
+            "vintage",
             "picking"]
 
 i_options = ["Persian",
@@ -54,3 +53,4 @@ j_bonos_options = ["Jordan Katzrin",
            "Chardonnay",
            "Cabernet Franc",
            "Bourbon"]
+l_Ans = [a_options,b_options,c_options,d_options,e_options,f_options,g_options,h_options,i_options,j_bonos_options]
