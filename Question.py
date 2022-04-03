@@ -14,6 +14,6 @@ g_="Question=Where is the Knesset of Israel?"
 #
 h= "What is called grape picking?"
 #
-i="Which of the following is not a fruit?"
+I="Which of the following is not a fruit?"
 #
-j_Bonos = "Which of the following is not a type of wine?"
+Bonos = "Which of the following is not a type of wine?"

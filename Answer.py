@@ -10,6 +10,7 @@ b_options = ["Moses",
              "Jacob"
              ]
 
+
 c_options = ["Albert Einstein",
              "Isaac Newton",
              "Stephen Hawking",
@@ -27,6 +28,7 @@ e_options = ["Aphrodite",
              "Pantheon",
              "Phobos"
              ]
+
 
 f_options = ["California",""
             "Los Angeles",
