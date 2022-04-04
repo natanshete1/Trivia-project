@@ -3,10 +3,6 @@ import Question
 
 ans = Answer.l_Ans
 corct_ans = Answer.l_corect
-# # ans_dic = Answer.real_ans
-# ans2 = ans_dic.values()
-# ans2_list = list(ans2)
-
 qus = Question.l_Qus
 n = len(qus)
 score = 0
