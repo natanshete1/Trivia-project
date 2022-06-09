@@ -1,3 +1,4 @@
+
 a = "Which country do you drink sake in?"
 #
 b = "In the Bible who built the ark"
